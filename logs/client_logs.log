@@ -1,0 +1,44 @@
+2021-07-13 22:47:08,597 - __main__ - INFO - Starting up worker with id: 56
+2021-07-13 22:47:08,597 - __main__ - INFO - Building request 1
+2021-07-13 22:47:12,471 - __main__ - INFO - Starting up worker with id: 50
+2021-07-13 22:47:12,471 - __main__ - INFO - Building request 1
+2021-07-13 22:47:12,473 - __main__ - INFO - Running MAP task with: 
+map_task_id = 0 
+input_filepath = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-sherlock_holmes.txt 
+intermediate_dir = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate 
+
+2021-07-13 22:47:14,373 - __main__ - INFO - Starting up worker with id: 100
+2021-07-13 22:47:14,373 - __main__ - INFO - Building request 1
+2021-07-13 22:47:14,375 - __main__ - INFO - Running MAP task with: 
+map_task_id = 1 
+input_filepath = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-tom_sawyer.txt 
+intermediate_dir = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate 
+
+2021-07-13 22:47:16,578 - __main__ - INFO - Building request 2
+2021-07-13 22:47:16,579 - __main__ - INFO - Running MAP task with: 
+map_task_id = 2 
+input_filepath = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-frankenstein.txt 
+intermediate_dir = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate 
+
+2021-07-13 22:47:17,262 - __main__ - INFO - Building request 2
+2021-07-13 22:47:17,262 - __main__ - INFO - Running MAP task with: 
+map_task_id = 3 
+input_filepath = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-grimm.txt 
+intermediate_dir = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate 
+
+2021-07-13 22:47:19,652 - __main__ - INFO - Building request 3
+2021-07-13 22:47:19,653 - __main__ - INFO - Running MAP task with: 
+map_task_id = 4 
+input_filepath = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-being_ernest.txt 
+intermediate_dir = /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate 
+
+2021-07-13 22:47:20,569 - __main__ - INFO - Building request 4
+2021-07-13 22:47:21,333 - __main__ - INFO - Building request 3
+2021-07-13 22:47:37,960 - __main__ - INFO - Starting up worker with id: 63
+2021-07-13 22:47:37,960 - __main__ - INFO - Building request 1
+2021-07-13 22:47:54,480 - __main__ - INFO - Starting up worker with id: 81
+2021-07-13 22:47:54,480 - __main__ - INFO - Building request 1
+2021-07-13 22:47:59,248 - __main__ - INFO - Starting up worker with id: 21
+2021-07-13 22:47:59,248 - __main__ - INFO - Building request 1
+2021-07-13 22:48:54,232 - __main__ - INFO - Starting up worker with id: 69
+2021-07-13 22:48:54,233 - __main__ - INFO - Building request 1

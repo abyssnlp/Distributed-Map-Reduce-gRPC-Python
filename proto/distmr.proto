@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package distmr;
+
+/*
+  MapReduce: rpc to get tasks from the driver
+ */
+service MapReduce {
+  rpc GetTask(WorkerState) returns (Task) {}
+}
+
+/*
+    WorkerState to send back to the driver while requesting a new task
+ */
+message WorkerState{
+  int32 worker_id = 1;
+  int32 task_state = 2;
+}
+
+/*
+    Task to be sent to the worker with the input filepath and the destination output path
+ */
+message Task {
+  int32 task_id = 1;
+  int32 task_type = 2;
+  string input_filepath = 3;
+  string output_filepath = 4;
+}

@@ -1,0 +1,14 @@
+2021-07-13 22:47:10,527 - driver - INFO - Calling create_input_queue function from task generator ...
+2021-07-13 22:47:10,527 - driver - INFO - Creating input file queue...
+2021-07-13 22:47:10,527 - driver - INFO - Input queue: deque(['pg-sherlock_holmes.txt', 'pg-tom_sawyer.txt', 'pg-frankenstein.txt', 'pg-grimm.txt', 'pg-being_ernest.txt', 'pg-huckleberry_finn.txt', 'pg-metamorphosis.txt'])
+2021-07-13 22:47:10,527 - driver - INFO - Creating storage for map and reduce jobs...
+2021-07-13 22:47:12,473 - driver - INFO - Generating MAP task_id: 0
+2021-07-13 22:47:12,473 - driver - INFO - Creating Task: 0 of type 1 at /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-sherlock_holmes.txt with output: /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate
+2021-07-13 22:47:14,375 - driver - INFO - Generating MAP task_id: 1
+2021-07-13 22:47:14,375 - driver - INFO - Creating Task: 1 of type 1 at /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-tom_sawyer.txt with output: /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate
+2021-07-13 22:47:16,579 - driver - INFO - Generating MAP task_id: 2
+2021-07-13 22:47:16,579 - driver - INFO - Creating Task: 2 of type 1 at /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-frankenstein.txt with output: /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate
+2021-07-13 22:47:17,262 - driver - INFO - Generating MAP task_id: 3
+2021-07-13 22:47:17,262 - driver - INFO - Creating Task: 3 of type 1 at /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-grimm.txt with output: /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate
+2021-07-13 22:47:19,653 - driver - INFO - Generating MAP task_id: 4
+2021-07-13 22:47:19,653 - driver - INFO - Creating Task: 4 of type 1 at /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-being_ernest.txt with output: /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/intermediate

@@ -1,0 +1,5 @@
+2021-07-13 22:47:12,473 - worker - INFO - Starting MAP task for /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-sherlock_holmes.txt
+2021-07-13 22:47:14,375 - worker - INFO - Starting MAP task for /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-tom_sawyer.txt
+2021-07-13 22:47:16,579 - worker - INFO - Starting MAP task for /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-frankenstein.txt
+2021-07-13 22:47:17,263 - worker - INFO - Starting MAP task for /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-grimm.txt
+2021-07-13 22:47:19,653 - worker - INFO - Starting MAP task for /Users/shauryarawat/Documents/Python/DistributedComputing/benshi/dist_mr_test/map_reduce/data/inputs/pg-being_ernest.txt
